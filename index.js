@@ -5,3 +5,5 @@ function theBeatlesPlay(musicians,instruments){
   }
   return output;
 }
+
+function iLoveTheBeatles()
